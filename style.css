@@ -1,6 +1,6 @@
-/* *{
-    box-sizing    : border-box;
-}  */
+*{
+    font-family: "Lucida Console", Courier, monospace;
+} 
 #title {
     font-weight: bold;
     font-family: "Lucida Console", Courier, monospace;
