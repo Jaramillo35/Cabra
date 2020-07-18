@@ -1,0 +1,16 @@
+
+#Chicken{
+    text-align: justify;
+    padding: 20px;
+    margin: 20px;
+    background-color: gray;
+}
+
+#navbarNavDropdown{
+    
+    background-color: indigo;
+}
+
+.nav-link a{
+    color: wheat;
+}
